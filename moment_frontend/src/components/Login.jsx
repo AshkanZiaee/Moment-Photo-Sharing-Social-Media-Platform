@@ -39,6 +39,7 @@ function Login() {
           controls={false}
           muted
           autoPlay
+          playsinline
           className="w-full h-full object-cover"
         />
         <div
